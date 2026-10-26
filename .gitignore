@@ -1,0 +1,12 @@
+# Reproducible build output and duplicate local distributions
+build/
+dist/버드 폴더/
+dist/*.zip
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+~$*.xlsx
+
